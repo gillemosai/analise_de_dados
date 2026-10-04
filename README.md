@@ -22,7 +22,25 @@ O arquivo **[`ProjetoDIO3_melhorado.xlsx`](./ProjetoDIO3_melhorado.xlsx)** é um
 - **`Suporte`**: Matrizes de parâmetros, listas de validação de dados e parâmetros de apoio ao dashboard.
 - **`Base_Dados`**: Repositório central de registros higienizados e tipados prontos para auditoria.
 
-![Dashboard Executivo em Excel](assets/proj1_dashboard.jpg)
+### 🖼️ Telas do Projeto
+
+#### 1. Dashboard de Investimentos em FIIs — Visão Geral & KPIs
+![Dashboard de Investimentos - Parte Superior](assets/Dio001.png)
+
+#### 2. Curva de Acúmulo, Juros Compostos & Cenários de Dividendos
+![Dashboard de Investimentos - Parte Inferior](assets/Dio002.png)
+
+#### 3. Motor de Cálculo & Parametrização Dinâmica
+![Aba de Cálculos e Modelagem](assets/Dio003.png)
+
+#### 4. Tabelas Dinâmicas & Alocação por Perfil de Risco
+![Aba de Tabelas Dinâmicas](assets/Dio004.png)
+
+---
+
+### 📥 Acesso e Download da Planilha
+- 📊 **[Visualizar a Planilha no GitHub (`ProjetoDIO3_melhorado.xlsx`)](./ProjetoDIO3_melhorado.xlsx)**
+- 💾 **[Download Direto do Arquivo (.xlsx)](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/ProjetoDIO3_melhorado.xlsx)**
 
 ---
 
@@ -32,23 +50,18 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
 
 1. **Dashboard Financeiro Executivo & DRE Automatizada**:
    - Modelagem de fluxo de caixa diário, DRE gerencial completa, EBITDA e conciliação bancária via Macros VBA em 1 clique.
-   ![Automação VBA](assets/proj1_macros.jpg)
 
 2. **Pipeline de Automação e ETL com Python (Pandas)**:
    - Scripts para ingestão, limpeza e tratamento de bases com mais de 500.000 linhas e geração agendada de relatórios executivos em PDF.
-   ![Python Data Pipeline](assets/proj2_python.jpg)
 
 3. **Sistema PWA de Coleta Operacional (Offline-First)**:
    - Aplicativo web progressivo para entrada de dados em celulares e tablets com sincronização automática com planilhas e bancos de dados.
-   ![Sistema PWA Operacional](assets/proj3_pwa.jpg)
 
 4. **Planilha Inteligente de Precificação, Markup & Comissões**:
    - Simulador de custos diretos, impostos sobre faturamento, taxas de antecipação e metas escalonadas para equipes comerciais.
-   ![Simulador de Precificação](assets/proj4_pricing.jpg)
 
 5. **Pipeline de Extração Inteligente de Documentos (Python + IA)**:
    - Leitura de PDFs em lote, extração automática de dados estruturados e fila de governança com validação humana.
-   ![Automação de Documentos](assets/proj5_aidoc.jpg)
 
 ---
 
