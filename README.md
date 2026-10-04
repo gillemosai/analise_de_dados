@@ -1,7 +1,7 @@
 # 📊 Análise de Dados — Dashboards, Planilhas e PWAs
 
 > **Dashboards, Planilhas e PWAs criados para projetos de Análise de Dados**  
-> Desenvolvido por **Gil Lemos** ([@gillemosai](https://gillemosai.com)) — Especialista em IA Aplicada, Ex-Embaixador Copilot na CAIXA e UX Designer certificado pelo Google.
+> Desenvolvido por **Gil Lemos** ([@gillemosai](https://gillemosai.com)) — Especialista em IA Aplicada, Embaixador Copilot na CAIXA e UX Designer certificado pelo Google.
 
 ---
 
