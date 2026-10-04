@@ -61,20 +61,15 @@ O arquivo **[`ProjetoDIO3_melhorado.xlsx`](./ProjetoDIO3_melhorado.xlsx)** é um
 
 Novos projetos e soluções já estão sendo preparados e serão disponibilizados neste repositório em breve:
 
-1. **Dashboard Financeiro Executivo & DRE Automatizada**:
-   - Modelagem de fluxo de caixa diário, DRE gerencial completa, EBITDA e conciliação bancária via Macros VBA em 1 clique.
+1. **CONTROLE FINANCEIRO PESSOAL**:
+   - Planilha com controle financeiro pessoal completo.Uso Macros VBA, Dashboard, Tabelas Dinâmicas e Cálculos completos 
 
-2. **Pipeline de Automação e ETL com Python (Pandas)**:
-   - Scripts para ingestão, limpeza e tratamento de bases com mais de 500.000 linhas e geração agendada de relatórios executivos em PDF.
+2. **Automação com Python (Pandas)**:
+   - Projeto de automação desenvolvido em Python(ainda em processo de construção).
 
-3. **Sistema PWA de Coleta Operacional (Offline-First)**:
-   - Aplicativo web progressivo para entrada de dados em celulares e tablets com sincronização automática com planilhas e bancos de dados.
+3. **Sistema PWA de controle financeiro (Offline-First)**:
+   - Aplicativo web progressivo para controle financeiro já totalmente funcional e com repositório próprio **[Finanza](https://github.com/gillemosai/finanza2026) .
 
-4. **Planilha Inteligente de Precificação, Markup & Comissões**:
-   - Simulador de custos diretos, impostos sobre faturamento, taxas de antecipação e metas escalonadas para equipes comerciais.
-
-5. **Pipeline de Extração Inteligente de Documentos (Python + IA)**:
-   - Leitura de PDFs em lote, extração automática de dados estruturados e fila de governança com validação humana.
 
 ---
 
