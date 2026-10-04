@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### Criado com Inteligência Artificial
-
 #### Projeto desenvolvido com Excel 365 + OnlyOffice no Linux Zorin OS 18
 
 <p align="center">
