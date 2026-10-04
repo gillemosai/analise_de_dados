@@ -1,5 +1,20 @@
 # 📊 Análise de Dados — Dashboards, Planilhas e PWAs
 
+<div align="center">
+
+### Criado com Inteligência Artificial
+
+#### Projeto desenvolvido com Excel 365 + OnlyOffice no Linux Zorin OS 18
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deploy-Live-4c1" alt="Deploy Live">
+  <img src="https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white" alt="Excel 365">
+  <img src="https://img.shields.io/badge/OnlyOffice-Desktop-FF6F3D?logo=onlyoffice&logoColor=white" alt="OnlyOffice">
+  <img src="https://img.shields.io/badge/Linux-Zorin_OS_18-0CC0DF?logo=linux&logoColor=white" alt="Zorin OS 18">
+</p>
+
+</div>
+
 > **Dashboards, Planilhas e PWAs criados para projetos de Análise de Dados**  
 > Desenvolvido por **Gil Lemos** ([@gillemosai](https://gillemosai.com)) — Especialista em IA Aplicada, Embaixador Copilot na CAIXA e UX Designer certificado pelo Google.
 
