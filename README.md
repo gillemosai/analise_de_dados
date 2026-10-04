@@ -94,7 +94,7 @@ Estou **aberto a novos projetos, consultorias empresariais e contratos como free
 
 ## 📬 Contato & Canais Oficiais
 
-- 🌐 **Site Oficial**: [gillemosai.com](https://gillemosai.com) / [gillemosai.online](https://gillemosai.online)
+- 🌐 **Site Oficial**: [gillemosai.com](https://gillemosai.com)
 - 💼 **E-mail Comercial**: [comercial@gillemosai.com](mailto:comercial@gillemosai.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/gillemosai](https://www.linkedin.com/in/gillemosai/)
 - 🎨 **Behance**: [behance.net/gillemosai](https://www.behance.net/gillemosai)
