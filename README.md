@@ -61,14 +61,19 @@ O arquivo **[`ProjetoDIO3_melhorado.xlsx`](./ProjetoDIO3_melhorado.xlsx)** é um
 
 Novos projetos e soluções já estão sendo preparados e serão disponibilizados neste repositório em breve:
 
-1. **CONTROLE FINANCEIRO PESSOAL**:
-   - Planilha com controle financeiro pessoal completo.Uso Macros VBA, Dashboard, Tabelas Dinâmicas e Cálculos completos 
+1. **CONTROLE FINANCEIRO PESSOAL** — ✅ **Disponível**:
+   - Planilha com controle financeiro pessoal completo. Uso de Macros VBA, Dashboard, Tabelas Dinâmicas e Cálculos completos (todos os dados são fictícios, para demonstração).
+   - 📁 **[Abrir a pasta do projeto](./controle-financeiro-pessoal/)**
+   - 🆕 **Versão Profissional** (visual sóbrio, navegação estilo aplicativo, abas protegidas): [Visualizar](./controle-financeiro-pessoal/Controle_Financeiro_2026_Modelo_Profissional.xlsm) · [Download direto](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/controle-financeiro-pessoal/Controle_Financeiro_2026_Modelo_Profissional.xlsm)
+   - 🛠️ **Versão Corrigida** (layout original com correção de lentidão, filtros de meses duplicados e erros `#REF!`): [Visualizar](./controle-financeiro-pessoal/Controle_Financeiro_2026_Versao_Corrigida.xlsm) · [Download direto](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/controle-financeiro-pessoal/Controle_Financeiro_2026_Versao_Corrigida.xlsm)
+
+   ![Controle Financeiro Pessoal - Dashboard (Versão Profissional)](assets/Controle001.png)
 
 2. **Automação com Python (Pandas)**:
    - Projeto de automação desenvolvido em Python(ainda em processo de construção).
 
 3. **Sistema PWA de controle financeiro (Offline-First)**:
-   - Aplicativo web progressivo para controle financeiro já totalmente funcional e com repositório próprio **[Finanza](https://github.com/gillemosai/finanza2026) .
+   - Aplicativo web progressivo para controle financeiro já totalmente funcional e com repositório próprio **[Finanza](https://github.com/gillemosai/finanza2026)**.
 
 
 ---
