@@ -1,5 +1,20 @@
 # 💰 Controle Financeiro Pessoal (Excel + VBA)
 
+<div align="center">
+
+#### Projeto criado e corrigido com Excel 365 + VBA no Windows 11
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white" alt="Excel 365">
+  <img src="https://img.shields.io/badge/Macros-VBA-4B6C9E" alt="Macros VBA">
+  <img src="https://img.shields.io/badge/Tabelas-Din%C3%A2micas-1D6F42" alt="Tabelas Dinâmicas">
+  <img src="https://img.shields.io/badge/Segmenta%C3%A7%C3%B5es-de_Dados-2F6DB5" alt="Segmentações de Dados">
+  <img src="https://img.shields.io/badge/Dashboard-Interativo-6B7A99" alt="Dashboard Interativo">
+  <img src="https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white" alt="Windows 11">
+</p>
+
+</div>
+
 Planilha de controle financeiro pessoal com **Dashboard interativo**, **Tabelas Dinâmicas**, **Segmentações de dados** e **Macros VBA**.
 
 > ⚠️ Todos os dados contidos nos arquivos são **fictícios** e servem apenas para demonstração (períodos de ago/26 a out/26).
