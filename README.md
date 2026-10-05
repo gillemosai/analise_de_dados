@@ -64,9 +64,11 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
 1. **CONTROLE FINANCEIRO PESSOAL** — ✅ **Disponível**:
    - Planilha com controle financeiro pessoal completo. Uso de Macros VBA, Dashboard, Tabelas Dinâmicas e Cálculos completos (todos os dados são fictícios, para demonstração).
    - 📁 **[Abrir a pasta do projeto](./controle-financeiro-pessoal/)**
-   - 🆕 **Versão Profissional** (visual sóbrio, navegação estilo aplicativo, abas protegidas): [Visualizar](./controle-financeiro-pessoal/Controle_Financeiro_2026_Modelo_Profissional.xlsm) · [Download direto](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/controle-financeiro-pessoal/Controle_Financeiro_2026_Modelo_Profissional.xlsm)
-   - 🛠️ **Versão Corrigida** (layout original com correção de lentidão, filtros de meses duplicados e erros `#REF!`): [Visualizar](./controle-financeiro-pessoal/Controle_Financeiro_2026_Versao_Corrigida.xlsm) · [Download direto](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/controle-financeiro-pessoal/Controle_Financeiro_2026_Versao_Corrigida.xlsm)
+  - 🛠️ **Versão Original - Feita por mim e corrigida pelo Claude Sonnet 5.5** (layout original com correção de lentidão, filtros de meses duplicados e erros `#REF!`): [Visualizar](./controle-financeiro-pessoal/Controle_Financeiro_2026_Versao_Corrigida.xlsm) · [Download direto](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/controle-financeiro-pessoal/Controle_Financeiro_2026_Versao_Corrigida.xlsm)
+  ![Controle Financeiro Pessoal Original - Dashboard (Versão Profissional)](assets/controle_original.png)
 
+   - 🆕 **Versão Profissional** (visual sóbrio, navegação estilo aplicativo, abas protegidas): [Visualizar](./controle-financeiro-pessoal/Controle_Financeiro_2026_Modelo_Profissional.xlsm) · [Download direto](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/controle-financeiro-pessoal/Controle_Financeiro_2026_Modelo_Profissional.xlsm)
+ 
    ![Controle Financeiro Pessoal - Dashboard (Versão Profissional)](assets/Controle001.png)
 
 2. **Automação com Python (Pandas)**:
