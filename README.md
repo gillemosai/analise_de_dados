@@ -91,8 +91,29 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
 2. **Automação com Python (Pandas)**:
    - Projeto de automação desenvolvido em Python(ainda em processo de construção).
 
-3. **Sistema PWA de controle financeiro (Offline-First)**:
-   - Aplicativo web progressivo para controle financeiro já totalmente funcional e com repositório próprio **[Finanza](https://github.com/gillemosai/finanza2026)**.
+3. **Sistema PWA de controle financeiro (Offline-First)** — ✅ **Disponível**: **[Finanza](https://github.com/gillemosai/finanza2026)** `v7.7.0`
+
+   <p>
+     <img src="https://img.shields.io/badge/Status-Offline--First-blueviolet" alt="Offline-First">
+     <img src="https://img.shields.io/badge/Platform-PWA_Mobile-00A6B8" alt="PWA Mobile">
+     <img src="https://img.shields.io/badge/Vite-React_18-646CFF?logo=vite&logoColor=white" alt="Vite + React">
+     <img src="https://img.shields.io/badge/TypeScript-Tipado-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+     <img src="https://img.shields.io/badge/Tailwind-shadcn%2Fui-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind + shadcn/ui">
+     <img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?logo=supabase&logoColor=white" alt="Supabase">
+     <img src="https://img.shields.io/badge/Capacitor-iOS_%2B_Android-119EFF?logo=capacitor&logoColor=white" alt="Capacitor">
+     <img src="https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
+   </p>
+
+   - Sistema de controle financeiro **pessoal e profissional**, com dashboards inteligentes para acompanhar **receitas, despesas, dívidas, cartões e saldos bancários**. Substitui o controle em planilhas por uma interface web (PWA) rápida, limpa e já totalmente funcional, com repositório próprio.
+   - 🌐 **[Acessar o app](https://gillemosai.com/apps/finanza/)** · 💎 **[Planos](https://gillemosai.com/apps/finanza/planos/)** · 📦 **[Repositório no GitHub](https://github.com/gillemosai/finanza2026)**
+   - 🧭 **Módulos:** Dashboard, Receitas, Despesas, Cartões, Dívidas, Saldos Bancários, Metas, Relatórios (exportação para Excel e PDF) e Configurações.
+   - ✨ **Destaques:** funciona offline (IndexedDB com sincronização automática), instalável como PWA e compilável para iOS/Android via Capacitor, tema escuro/claro, ocultar saldos, copiar o mês anterior, busca com `Ctrl+K`, importação de planilha Excel e opções de acessibilidade (texto maior, alto contraste, leitor de tela).
+   - 🛠️ **Stack:** Vite · React 18 · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion · Supabase (PostgreSQL, autenticação e RLS) · IndexedDB/SQLite · Capacitor · Vercel/Hostinger.
+   - 📜 **Licença:** proprietária — todos os direitos reservados.
+
+   | Dashboard (tema escuro) | Dashboard (tema claro) |
+   |:-----------------------:|:----------------------:|
+   | ![Finanza - Dashboard tema escuro](assets/finanza-dashboard-escuro.png) | ![Finanza - Dashboard tema claro](assets/finanza-dashboard-claro.png) |
 
 
 ---
