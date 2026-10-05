@@ -27,6 +27,13 @@ Este repositório reúne projetos profissionais de **Engenharia e Análise de Da
 ## 🚀 Projeto Inicial em Destaque
 
 ### 📈 ProjetoDIO3_melhorado.xlsx
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white" alt="Excel 365">
+  <img src="https://img.shields.io/badge/OnlyOffice-Desktop-FF6F3D?logo=onlyoffice&logoColor=white" alt="OnlyOffice">
+  <img src="https://img.shields.io/badge/Linux-Zorin_OS_18-0CC0DF?logo=linux&logoColor=white" alt="Zorin OS 18">
+</p>
+
 O arquivo **[`ProjetoDIO3_melhorado.xlsx`](./ProjetoDIO3_melhorado.xlsx)** é um projeto completo de análise e visualização de dados desenvolvido no Microsoft Excel, com arquitetura em camadas estruturadas:
 
 - **`Dashboard`**: Painel executivo interativo com cartões de KPIs principais, gráficos analíticos e filtros dinâmicos de alta velocidade.
@@ -62,6 +69,16 @@ O arquivo **[`ProjetoDIO3_melhorado.xlsx`](./ProjetoDIO3_melhorado.xlsx)** é um
 Novos projetos e soluções já estão sendo preparados e serão disponibilizados neste repositório em breve:
 
 1. **CONTROLE FINANCEIRO PESSOAL** — ✅ **Disponível**:
+
+   <p>
+     <img src="https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white" alt="Excel 365">
+     <img src="https://img.shields.io/badge/Macros-VBA-4B6C9E" alt="Macros VBA">
+     <img src="https://img.shields.io/badge/Tabelas-Din%C3%A2micas-1D6F42" alt="Tabelas Dinâmicas">
+     <img src="https://img.shields.io/badge/Segmenta%C3%A7%C3%B5es-de_Dados-2F6DB5" alt="Segmentações de Dados">
+     <img src="https://img.shields.io/badge/Dashboard-Interativo-6B7A99" alt="Dashboard Interativo">
+     <img src="https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white" alt="Windows 11">
+   </p>
+
    - Planilha com controle financeiro pessoal completo. Uso de Macros VBA, Dashboard, Tabelas Dinâmicas e Cálculos completos (todos os dados são fictícios, para demonstração).
    - 📁 **[Abrir a pasta do projeto](./controle-financeiro-pessoal/)**
   - 🛠️ **Versão Original - Feita por mim e corrigida pelo Claude Sonnet 5.5** (layout original com correção de lentidão, filtros de meses duplicados e erros `#REF!`): [Visualizar](./controle-financeiro-pessoal/Controle_Financeiro_2026_Versao_Corrigida.xlsm) · [Download direto](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/controle-financeiro-pessoal/Controle_Financeiro_2026_Versao_Corrigida.xlsm)
