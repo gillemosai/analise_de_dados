@@ -26,7 +26,7 @@ Este repositório reúne projetos profissionais de **Engenharia e Análise de Da
 
 ## 🚀 Projeto Inicial em Destaque
 
-### 📈 ProjetoDIO3_melhorado.xlsx
+### 📈 Projeto 1/3 Bootcamp Santander/DIO - Excel com IA
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white" alt="Excel 365">
