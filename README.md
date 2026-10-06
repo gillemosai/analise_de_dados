@@ -3,7 +3,7 @@
 
 
 
-##Este repositório reúne projetos profissionais de **Engenharia e Análise de Dados**, **Modelagem Financeira em Excel**, **Automações com Macros VBA e Python** e **Sistemas Operacionais PWA (Progressive Web Apps)** voltados para negócios reais.
+Este repositório reúne projetos profissionais de **Engenharia e Análise de Dados**, **Modelagem Financeira em Excel**, **Automações com Macros VBA e Python** e **Sistemas Operacionais PWA (Progressive Web Apps)** voltados para negócios reais.
 
 <p align="center">
   Desenvolvido por Gil Lemos (<a href="https://gillemosai.com">@gillemosai</a>)<br>
