@@ -1,11 +1,8 @@
-> **Dashboards, Planilhas e PWAs criados para projetos de Análise de Dados**  
-> Desenvolvido por **Gil Lemos** ([@gillemosai](https://gillemosai.com)) — Especialista em IA Aplicada, Embaixador Copilot na CAIXA e UX Designer certificado pelo Google.
-
----
 
 ## 📌 Visão Geral do Repositório
 
 Este repositório reúne projetos profissionais de **Engenharia e Análise de Dados**, **Modelagem Financeira em Excel**, **Automações com Macros VBA e Python** e **Sistemas Operacionais PWA (Progressive Web Apps)** voltados para negócios reais.
+> Desenvolvido por **Gil Lemos** ([@gillemosai](https://gillemosai.com)) — Especialista em IA Aplicada, Embaixador Copilot na CAIXA e UX Designer certificado pelo Google.
 
 ---
 
