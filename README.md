@@ -28,7 +28,7 @@ Este repositório reúne projetos profissionais de **Engenharia e Análise de Da
 
 ### 📈 ProjetoDIO3_melhorado.xlsx
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white" alt="Excel 365">
   <img src="https://img.shields.io/badge/OnlyOffice-Desktop-FF6F3D?logo=onlyoffice&logoColor=white" alt="OnlyOffice">
   <img src="https://img.shields.io/badge/Linux-Zorin_OS_18-0CC0DF?logo=linux&logoColor=white" alt="Zorin OS 18">
@@ -70,7 +70,7 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
 
 1. **CONTROLE FINANCEIRO PESSOAL** — ✅ **Disponível**:
 
-   <p>
+   <p align="center">
      <img src="https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white" alt="Excel 365">
      <img src="https://img.shields.io/badge/Macros-VBA-4B6C9E" alt="Macros VBA">
      <img src="https://img.shields.io/badge/Tabelas-Din%C3%A2micas-1D6F42" alt="Tabelas Dinâmicas">
@@ -91,7 +91,7 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
 
 2. **Sistema PWA de controle financeiro (Offline-First)** — ✅ **Disponível**: **[Finanza](https://github.com/gillemosai/finanza2026)** `v7.7.0`
 
-   <p>
+   <p align="center">
      <img src="https://img.shields.io/badge/Status-Offline--First-blueviolet" alt="Offline-First">
      <img src="https://img.shields.io/badge/Platform-PWA_Mobile-00A6B8" alt="PWA Mobile">
      <img src="https://img.shields.io/badge/Vite-React_18-646CFF?logo=vite&logoColor=white" alt="Vite + React">
@@ -115,7 +115,7 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
 
 3. **Automação com Python (Pandas)** — 🚧 **Em desenvolvimento**:
 
-   <p>
+   <p align="center">
      <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python">
      <img src="https://img.shields.io/badge/pandas-Tratamento_de_Dados-150458?logo=pandas&logoColor=white" alt="pandas">
      <img src="https://img.shields.io/badge/openpyxl-Excel-217346?logo=microsoftexcel&logoColor=white" alt="openpyxl">
