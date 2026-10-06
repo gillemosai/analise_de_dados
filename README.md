@@ -89,10 +89,7 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
 
    ![Controle Financeiro Pessoal - Dashboard (Versão Profissional)](assets/Controle001.png)
 
-2. **Automação com Python (Pandas)**:
-   - Projeto de automação desenvolvido em Python(ainda em processo de construção).
-
-3. **Sistema PWA de controle financeiro (Offline-First)** — ✅ **Disponível**: **[Finanza](https://github.com/gillemosai/finanza2026)** `v7.7.0`
+2. **Sistema PWA de controle financeiro (Offline-First)** — ✅ **Disponível**: **[Finanza](https://github.com/gillemosai/finanza2026)** `v7.7.0`
 
    <p>
      <img src="https://img.shields.io/badge/Status-Offline--First-blueviolet" alt="Offline-First">
@@ -116,6 +113,25 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
    |:-----------------------:|:----------------------:|
    | ![Finanza - Dashboard tema escuro](assets/finanza-dashboard-escuro.png) | ![Finanza - Dashboard tema claro](assets/finanza-dashboard-claro.png) |
 
+3. **Automação com Python (Pandas)** — 🚧 **Em desenvolvimento**:
+
+   <p>
+     <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python">
+     <img src="https://img.shields.io/badge/pandas-Tratamento_de_Dados-150458?logo=pandas&logoColor=white" alt="pandas">
+     <img src="https://img.shields.io/badge/openpyxl-Excel-217346?logo=microsoftexcel&logoColor=white" alt="openpyxl">
+     <img src="https://img.shields.io/badge/pytest-Testes-0A9EDC?logo=pytest&logoColor=white" alt="pytest">
+     <img src="https://img.shields.io/badge/Excel-.xlsx_.xls_.xlsm-217346?logo=microsoftexcel&logoColor=white" alt="Excel">
+     <img src="https://img.shields.io/badge/CSV-.csv-6B7A99" alt="CSV">
+     <img src="https://img.shields.io/badge/Status-Em_desenvolvimento-F59E0B" alt="Em desenvolvimento">
+   </p>
+
+   - **Tratamento Automágico** — automatização da limpeza, padronização e validação de dados tabulares (Excel, CSV e outros formatos via pandas), gerando uma planilha tratada e um relatório completo de qualidade, seguindo o padrão brasileiro (vírgula como separador decimal, moedas em R$, datas e CPF/CNPJ).
+   - 🧹 **O que será feito:** padronizar nomes de colunas, limpar textos e caracteres indevidos, tratar números, moedas (R$) e percentuais (%), validar CPF e CNPJ, tratar e-mails, telefones, datas e horários, identificar duplicidades e gerar relatórios e logs.
+   - 🛠️ **Tecnologias:** Python · pandas · openpyxl · pathlib · re · unicodedata · pytest.
+
+   > ⚠️ **Observação:** este projeto está **em desenvolvimento** e ainda não foi disponibilizado neste repositório. O roteiro abaixo ilustra o que será construído.
+
+   ![Tratamento Automágico - Roteiro do projeto de automação com Python e Pandas](assets/tratamento.png)
 
 ---
 
