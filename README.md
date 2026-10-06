@@ -26,7 +26,7 @@ Este repositório reúne projetos profissionais de **Engenharia e Análise de Da
 
 ## 🚀 Projeto Inicial em Destaque
 
-### 📈 Projeto 1/3 Bootcamp Santander/DIO - Excel com IA
+<h3 align="center">📈 Projeto 1/3 Bootcamp Santander/DIO - Excel com IA</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white" alt="Excel 365">
@@ -68,7 +68,7 @@ O arquivo **[`ProjetoDIO3_melhorado.xlsx`](./ProjetoDIO3_melhorado.xlsx)** é um
 
 Novos projetos e soluções já estão sendo preparados e serão disponibilizados neste repositório em breve:
 
-1. **CONTROLE FINANCEIRO PESSOAL** — ✅ **Disponível**:
+<p align="center"><b>1. CONTROLE FINANCEIRO PESSOAL — ✅ Disponível</b></p>
 
    <p align="center">
      <img src="https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white" alt="Excel 365">
@@ -89,7 +89,7 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
 
    ![Controle Financeiro Pessoal - Dashboard (Versão Profissional)](assets/Controle001.png)
 
-2. **Sistema PWA de controle financeiro (Offline-First)** — ✅ **Disponível**: **[Finanza](https://github.com/gillemosai/finanza2026)** `v7.7.0`
+<p align="center"><b>2. Sistema PWA de controle financeiro (Offline-First) — ✅ Disponível: <a href="https://github.com/gillemosai/finanza2026">Finanza</a></b> <code>v7.7.0</code></p>
 
    <p align="center">
      <img src="https://img.shields.io/badge/Status-Offline--First-blueviolet" alt="Offline-First">
@@ -113,7 +113,7 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
    |:-----------------------:|:----------------------:|
    | ![Finanza - Dashboard tema escuro](assets/finanza-dashboard-escuro.png) | ![Finanza - Dashboard tema claro](assets/finanza-dashboard-claro.png) |
 
-3. **Automação com Python (Pandas)** — 🚧 **Em desenvolvimento**:
+<p align="center"><b>3. Automação com Python (Pandas) — 🚧 Em desenvolvimento</b></p>
 
    <p align="center">
      <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python">
