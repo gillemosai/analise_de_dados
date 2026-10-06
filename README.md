@@ -3,7 +3,7 @@
 
 
 <p align="center">
-Este repositório reúne projetos profissionais de **Engenharia e Análise de Dados**, **Modelagem Financeira em Excel**, **Automações com Macros VBA e Python** e **Sistemas Operacionais PWA (Progressive Web Apps)** voltados para negócios reais.
+Este repositório reúne projetos profissionais de <b>Engenharia e Análise de Dados</b>, <b>Modelagem Financeira em Excel</b>, <b>Automações com Macros VBA e Python</b> e <b>Sistemas Operacionais PWA (Progressive Web Apps)</b> voltados para negócios reais.
 </p>
 
 <p align="center">
