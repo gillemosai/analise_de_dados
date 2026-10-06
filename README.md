@@ -2,8 +2,14 @@
 ## 📌 Visão Geral do Repositório
 
 Este repositório reúne projetos profissionais de **Engenharia e Análise de Dados**, **Modelagem Financeira em Excel**, **Automações com Macros VBA e Python** e **Sistemas Operacionais PWA (Progressive Web Apps)** voltados para negócios reais.
-<h4 align="center"> Desenvolvido por **Gil Lemos** ([@gillemosai](https://gillemosai.com)) </h4>
-<h4 align="center"> Especialista em IA Aplicada, Embaixador Copilot na CAIXA e UX Designer certificado pelo Google.</h4>
+
+<p align="center">
+  Desenvolvido por Gil Lemos (<a href="https://gillemosai.com">@gillemosai</a>)
+</p>
+
+<p align="center">
+  Especialista em IA Aplicada, Embaixador Copilot na CAIXA e UX Designer certificado pelo Google.
+</p>
 
 ---
 
