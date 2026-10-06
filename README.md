@@ -23,9 +23,9 @@
 Este repositório reúne projetos profissionais de **Engenharia e Análise de Dados**, **Modelagem Financeira em Excel**, **Automações com Macros VBA e Python** e **Sistemas Operacionais PWA (Progressive Web Apps)** voltados para negócios reais.
 
 ---
-<p align="center">
+
 ## 🚀 Projeto Inicial em Destaque
-</p>
+
 ### 📈 Projeto 1/3 Bootcamp Santander/DIO - Excel com IA
 
 <p align="center">
