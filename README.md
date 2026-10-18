@@ -13,6 +13,15 @@ Este repositório reúne projetos profissionais de <b>Engenharia e Análise de D
 
 ---
 
+<details>
+<summary><b>🌍 English</b></summary>
+
+Portfolio of **data analysis and Excel automation** projects by Gil Lemos: an investment dashboard for Brazilian REITs (FIIs) with pivot tables and scenario modeling, a personal finance workbook with VBA macros and interactive dashboards, and a link to **Finanza**, an offline-first personal finance PWA. Workbooks can be downloaded directly from this repository. Contact: [gillemosai.com](https://gillemosai.com).
+
+</details>
+
+---
+
 ## 🚀 Projeto Inicial em Destaque
 
 <h3 align="center">📈 Projeto 1/3 Bootcamp Santander/DIO - Excel com IA</h3>
@@ -53,9 +62,9 @@ O arquivo **[`ProjetoDIO3_melhorado.xlsx`](./ProjetoDIO3_melhorado.xlsx)** é um
 
 ---
 
-## 🔄 Em Breve: Novos Projetos neste Repositório
+## 🧰 Mais Projetos e Soluções
 
-Novos projetos e soluções já estão sendo preparados e serão disponibilizados neste repositório em breve:
+Outros projetos e soluções que fazem parte deste portfólio:
 
 <p align="center"><b>1. CONTROLE FINANCEIRO PESSOAL — ✅ Disponível</b></p>
 
@@ -78,7 +87,7 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
 
    ![Controle Financeiro Pessoal - Dashboard (Versão Profissional)](assets/Controle001.png)
 
-<p align="center"><b>2. Sistema PWA de controle financeiro (Offline-First) — ✅ Disponível: <a href="https://github.com/gillemosai/finanza2026">Finanza</a></b> <code>v7.7.0</code></p>
+<p align="center"><b>2. Sistema PWA de controle financeiro (Offline-First) — ✅ Disponível: Finanza</b> <code>v7.7.0</code></p>
 
    <p align="center">
      <img src="https://img.shields.io/badge/Status-Offline--First-blueviolet" alt="Offline-First">
@@ -92,7 +101,7 @@ Novos projetos e soluções já estão sendo preparados e serão disponibilizado
    </p>
 
    - Sistema de controle financeiro **pessoal e profissional**, com dashboards inteligentes para acompanhar **receitas, despesas, dívidas, cartões e saldos bancários**. Substitui o controle em planilhas por uma interface web (PWA) rápida, limpa e já totalmente funcional, com repositório próprio.
-   - 🌐 **[Acessar o app](https://gillemosai.com/apps/finanza/)** · 💎 **[Planos](https://gillemosai.com/apps/finanza/planos/)** · 📦 **[Repositório no GitHub](https://github.com/gillemosai/finanza2026)**
+   - 🌐 **[Acessar o app](https://gillemosai.com/apps/finanza/)** · 💎 **[Planos](https://gillemosai.com/apps/finanza/planos/)**
    - 🧭 **Módulos:** Dashboard, Receitas, Despesas, Cartões, Dívidas, Saldos Bancários, Metas, Relatórios (exportação para Excel e PDF) e Configurações.
    - ✨ **Destaques:** funciona offline (IndexedDB com sincronização automática), instalável como PWA e compilável para iOS/Android via Capacitor, tema escuro/claro, ocultar saldos, copiar o mês anterior, busca com `Ctrl+K`, importação de planilha Excel e opções de acessibilidade (texto maior, alto contraste, leitor de tela).
    - 🛠️ **Stack:** Vite · React 18 · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion · Supabase (PostgreSQL, autenticação e RLS) · IndexedDB/SQLite · Capacitor · Vercel/Hostinger.
