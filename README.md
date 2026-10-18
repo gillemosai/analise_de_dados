@@ -1,15 +1,24 @@
+<div align="center">
 
-<h1 align="center">📌 Visão Geral do Repositório</h1>
+# 📊 Análise de Dados e Planilhas
 
+**Projetos de engenharia e análise de dados, modelagem financeira em Excel, automações com Macros VBA e Python e sistemas PWA voltados para negócios reais.**
 
-<p align="center">
-Este repositório reúne projetos profissionais de <b>Engenharia e Análise de Dados</b>, <b>Modelagem Financeira em Excel</b>, <b>Automações com Macros VBA e Python</b> e <b>Sistemas Operacionais PWA (Progressive Web Apps)</b> voltados para negócios reais.
-</p>
+[![Excel](https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white)](#-projeto-inicial-em-destaque)
+[![VBA](https://img.shields.io/badge/Macros-VBA-4B6C9E)](#-mais-projetos-e-soluções)
+[![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)](#-mais-projetos-e-soluções)
+[![PWA](https://img.shields.io/badge/PWA-offline--first-00A6B8)](#-mais-projetos-e-soluções)
+[![Stars](https://img.shields.io/github/stars/gillemosai/analise_de_dados?style=social)](https://github.com/gillemosai/analise_de_dados/stargazers)
+[![Último commit](https://img.shields.io/github/last-commit/gillemosai/analise_de_dados)](https://github.com/gillemosai/analise_de_dados/commits)
+[![Site](https://img.shields.io/badge/Site-gillemosai.com-6D28D9)](https://gillemosai.com)
 
-<p align="center">
-  Desenvolvido por Gil Lemos (<a href="https://gillemosai.com">@gillemosai</a>)<br>
-  Especialista em IA Aplicada, Embaixador Copilot na CAIXA e UX Designer certificado pelo Google.
-</p>
+[Projeto em destaque](#-projeto-inicial-em-destaque) · [Mais projetos](#-mais-projetos-e-soluções) · [Contato](#-contato--canais-oficiais)
+
+© 2026 **Gil Lemos** · [gillemosai.com](https://gillemosai.com)
+
+*Especialista em IA Aplicada, Embaixador Copilot na CAIXA e UX Designer certificado pelo Google.*
+
+</div>
 
 ---
 
