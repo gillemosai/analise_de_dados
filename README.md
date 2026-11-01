@@ -12,7 +12,7 @@
 [![Último commit](https://img.shields.io/github/last-commit/gillemosai/analise_de_dados)](https://github.com/gillemosai/analise_de_dados/commits)
 [![Site](https://img.shields.io/badge/Site-gillemosai.com-6D28D9)](https://gillemosai.com)
 
-[Projeto em destaque](#-projeto-inicial-em-destaque) · [Mais projetos](#-mais-projetos-e-soluções) · [Contato](#-contato--canais-oficiais)
+[Projetos em destaque](#-projeto-inicial-em-destaque) · [Mais projetos](#-mais-projetos-e-soluções) · [Contato](#-contato--canais-oficiais)
 
 © 2026 **Gil Lemos** · [gillemosai.com](https://gillemosai.com)
 
@@ -25,7 +25,7 @@
 <details>
 <summary><b>🌍 English</b></summary>
 
-Portfolio of **data analysis and Excel automation** projects by Gil Lemos: an investment dashboard for Brazilian REITs (FIIs) with pivot tables and scenario modeling, a personal finance workbook with VBA macros and interactive dashboards, and a link to **Finanza**, an offline-first personal finance PWA. Workbooks can be downloaded directly from this repository. Contact: [gillemosai.com](https://gillemosai.com).
+Portfolio of **data analysis and Excel automation** projects by Gil Lemos: an investment dashboard for Brazilian REITs (FIIs) with pivot tables and scenario modeling, **LION INFORME**, a guided income-tax (IR) information workbook with data validation and OnlyOffice macros, a personal finance workbook with VBA macros and interactive dashboards, and a link to **Finanza**, an offline-first personal finance PWA. Workbooks can be downloaded directly from this repository. Contact: [gillemosai.com](https://gillemosai.com).
 
 </details>
 
@@ -68,6 +68,53 @@ O arquivo **[`ProjetoDIO3_melhorado.xlsx`](./ProjetoDIO3_melhorado.xlsx)** é um
 ### 📥 Acesso e Download da Planilha
 - 📊 **[Visualizar a Planilha no GitHub (`ProjetoDIO3_melhorado.xlsx`)](./ProjetoDIO3_melhorado.xlsx)**
 - 💾 **[Download Direto do Arquivo (.xlsx)](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/ProjetoDIO3_melhorado.xlsx)**
+
+---
+
+<h3 align="center">📈 Projeto 2/3 Bootcamp Santander/DIO - Excel com IA</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-.xlsx-217346?logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/OnlyOffice-Desktop-FF6F3D?logo=onlyoffice&logoColor=white" alt="OnlyOffice">
+  <img src="https://img.shields.io/badge/Macros-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="Macros JavaScript">
+  <img src="https://img.shields.io/badge/Fun%C3%A7%C3%A3o-AI()-6D28D9" alt="Função AI">
+  <img src="https://img.shields.io/badge/Linux-Zorin_OS_18-0CC0DF?logo=linux&logoColor=white" alt="Zorin OS 18">
+</p>
+
+O arquivo **[`Projeto2_IR_informacoes.xlsx`](./projeto2-lion-informe-ir/Projeto2_IR_informacoes.xlsx)** é o **LION INFORME**: um assistente em formato de planilha para organizar, passo a passo, as informações necessárias para a declaração do **Imposto de Renda (IR)**. Em vez de reunir tudo em papéis soltos, o usuário preenche três telas guiadas e navega entre elas por botões, como em um aplicativo.
+
+> ℹ️ Todos os dados da planilha (nome, CPF, endereço, bancos e valores) são **fictícios**, apenas para demonstração.
+
+- **`Titular`**: Dados do contribuinte (nome, CPF, nascimento, título de eleitor, cônjuge, endereço, contatos e e-mail) e perguntas de apoio com lista de opções **SIM/NÃO**: houve alterações da entrega anterior, possui dependente e é residente no exterior.
+- **`Informes.`**: Informes de rendimentos bancários de até 3 bancos (banco, valor atual e anexo do extrato), com **total consolidado calculado por fórmula** (`=SUM`). O banco é escolhido em uma lista de validação.
+- **`Notas`**: Tabela estruturada com as entradas de receita mês a mês (data, categoria e valor), com filtros e categorias por lista suspensa (**Salário, Freelancer, Outros**), útil para conferir notas bancárias ou extratos de holerite.
+- **`Menu`** e **`TABELAS`** *(abas ocultas)*: o menu lateral com a identidade visual do projeto e a lista de bancos com código (Banco do Brasil, Caixa, Bradesco, Santander, Nubank, Inter e outros) que alimenta as listas de validação.
+
+### ⚙️ Recursos de Automação e IA
+- 🧭 **Navegação estilo aplicativo**: menu lateral fixo e botões **PRÓXIMO ->** / **<- ANTERIOR** entre as etapas.
+- ✅ **Validação de dados** com listas suspensas e mensagens de erro para evitar preenchimento incorreto.
+- 🧩 **Macro em JavaScript (OnlyOffice)**: replica e posiciona automaticamente o ícone do LinkedIn do menu em cada aba.
+- 🤖 **Função personalizada `=AI()`**: permite pedir fórmulas e respostas à IA diretamente em uma célula da planilha (recurso de IA do OnlyOffice).
+- 🎨 **Identidade visual própria**: tema roxo, mascote "LION INFORME" e assinatura *System by @gillemosai*.
+
+### 🖼️ Telas do Projeto
+
+#### 1. Dados do Titular — Cadastro do contribuinte
+![LION INFORME - Dados do Titular](assets/IR001.png)
+
+#### 2. Informes de Rendimentos Bancários — Total consolidado
+![LION INFORME - Informes de Rendimentos Bancários](assets/IR002.png)
+
+#### 3. Notas Bancárias ou Extrato de Holerite — Entradas mês a mês
+![LION INFORME - Notas Bancárias](assets/IR003.png)
+
+---
+
+### 📥 Acesso e Download da Planilha
+- 📊 **[Visualizar a Planilha no GitHub (`Projeto2_IR_informacoes.xlsx`)](./projeto2-lion-informe-ir/Projeto2_IR_informacoes.xlsx)**
+- 💾 **[Download Direto do Arquivo (.xlsx)](https://raw.githubusercontent.com/gillemosai/analise_de_dados/main/projeto2-lion-informe-ir/Projeto2_IR_informacoes.xlsx)**
+
+> 💡 Para usar a macro e a função `=AI()`, abra a planilha no **OnlyOffice Desktop**. No Excel, as abas, fórmulas, listas e tabelas funcionam normalmente.
 
 ---
 
